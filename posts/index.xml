@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Oct 2021 07:41:10 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Frist Post</title>
+      <link>http://example.org/posts/my-frist-post/</link>
+      <pubDate>Sat, 16 Oct 2021 07:41:10 +0800</pubDate>
+      
+      <guid>http://example.org/posts/my-frist-post/</guid>
+      <description>#我的第一篇博客
+##欢迎大家前来讨论编程问题</description>
+    </item>
+    
+  </channel>
+</rss>
